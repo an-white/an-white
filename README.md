@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @an-white
-- 👀 I’m interested in Machine Learning, Data Analyze, 
-- 🌱 I’m currently learning about Java and Django, and I'd like to learn about image analysis, neural networks and evolutionary algorithms
-- 💞️ I’m looking to collaborate on Python and Java Projects
+- 👀 I’m interested in Machine Learning, Data Science and find ways to automate daily boring stuff 
+- 🧠 I have experience in Machine Learning using the python library of TensorFlow, with Keras API and SKlearn; Web app development with Django, Angular and Flask; automatization of boring stuff with selenium, webscraping with beautifulsoup 
+- 🥽 I’m looking to collaborate on Python or Java Projects
 - 📫 How to reach me andresblancahernandez@gmail.com and https://www.linkedin.com/in/andres-blanca/
 <!---
 an-white/an-white is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
