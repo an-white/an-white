@@ -3,10 +3,9 @@ Hi I’m @an-white c:
 - I have experience in:
   1.  Machine Learning with TensorFlow (+ API Keras) and SKlearn
   2.  FrontEnd development in Angular
-  3.  Web app development with Django, Flask and 
-  4.  BackEnd development with FastAPI
-  5.  Automatization of web stuff with Selenium
-  6.  Webscraping with BeautifulSoup
+  3.  Web app development with Django, Flask and backEnd development with FastAPI
+  4.  Automatization of web stuff with Selenium
+  5.  Webscraping with BeautifulSoup
 - 🥽 I’m looking to collaborate on Python and Web Projects
 - 🚍 How to reach me andresblancahernandez@gmail.com and https://www.linkedin.com/in/andres-blanca/
 <!---
