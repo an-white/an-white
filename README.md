@@ -1,7 +1,7 @@
 Hi I’m @an-white c:
 - I’m interested in Machine Learning, Data Science and how to find ways to automate daily boring stuff 
 - I have experience in:
-  1.  Machine Learning with TensorFlow (+ API Keras) and SKlearn
+  1.  Machine Learning with TensorFlow (+ API Keras) and Scikit Learn
   2.  FrontEnd development in Angular
   3.  Web app development with Django, Flask and backEnd development with FastAPI
   4.  Automatization of web stuff with Selenium
