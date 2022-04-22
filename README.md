@@ -7,7 +7,7 @@ Hi I’m @an-white c:
   4.  Front End development with the frameworks Angular
   5.  Automatization of web stuff with Selenium 
   6.  Webscraping with BeautifulSoup
-  7.  MongoDB connected from Python
+  7.  MongoDB, PostgreSQL
 - 🥽 I’m looking to collaborate on Python and Web Projects
 - 🙋‍♂️🙋‍♀️ How to reach me https://www.linkedin.com/in/andres-blanca/
 
