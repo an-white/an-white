@@ -2,7 +2,7 @@ Hi I’m @an-white c:
 - I love create thinks that simplify the boring stuff in our life L:
 - I have experience and I always continue learning about:
   1.  Backend development with Django, Flask and FastAPI
-  2.  Cloud Computing on AWS
+  2.  AWS (Serverless Apps, CI/CD, DevOps, IaC)
   3.  Front End development with the frameworks React and Angular
   4.  MySQL, MongoDB, PostgreSQL
   5.  Development of Android apps with React Native
